@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": "31ac",
+      "name": "pranav",
+      "email": "pardeshi@gmail.com",
+      "phone": "8787878787",
+      "city": "Chalisgoan",
+      "password": "5555"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Delicious Pizza",
+      "price": 20,
+      "image": "./images/f1.png",
+      "category": "Pizza",
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 10,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Delicious Pizza",
+      "price": 14,
+      "image": "./images/f3.png",
+      "category": "Pizza",
+      "stock": 17,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Delicious Pasta",
+      "price": 50,
+      "image": "./images/f4.png",
+      "category": "Pasta",
+      "stock": 19,
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "name": "French Fries",
+      "price": 10,
+      "image": "./images/f5.png",
+      "category": "Fries",
+      "stock": 25,
+      "qty": 1
+    },
+    {
+      "id": "6",
+      "name": "Delicious Pizza",
+      "price": 20,
+      "image": "./images/f1.png",
+      "category": "Pizza",
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "name": "Tasty Burger",
+      "price": 15,
+      "image": "./images/f7.png",
+      "category": "Burger",
+      "stock": 9,
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "name": "Tasty Burger",
+      "price": 20,
+      "image": "./images/f8.png",
+      "category": "Burger",
+      "stock": 9,
+      "qty": 1
+    },
+    {
+      "id": "9",
+      "name": "Delicious Pasta",
+      "price": 12,
+      "image": "./images/f7.png",
+      "category": "Pasta",
+      "stock": 9,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "Delicious Pizza",
+      "price": 14,
+      "image": "./images/f3.png",
+      "category": "Pizza",
+      "stock": 17,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 10,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Delicious Pizza",
+      "price": 14,
+      "image": "./images/f3.png",
+      "category": "Pizza",
+      "stock": 17,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Delicious Pasta",
+      "price": 50,
+      "image": "./images/f4.png",
+      "category": "Pasta",
+      "stock": 19,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 10,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 10,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Delicious Pizza",
+      "price": 14,
+      "image": "./images/f3.png",
+      "category": "Pizza",
+      "stock": 17,
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "name": "Tasty Burger",
+      "price": 20,
+      "image": "./images/f8.png",
+      "category": "Burger",
+      "stock": 9,
+      "qty": 1
+    }
+  ]
+}
